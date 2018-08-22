@@ -1,0 +1,10 @@
+- title: titolo primobox
+  description: primobox.md
+- title: titolo secondo box
+  description: secondobox.md
+  utenza:
+    - intermediari
+- title: titolo terzo box
+  description: terzobox.md
+  utenza:
+    - cittadini
