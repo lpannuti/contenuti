@@ -1,0 +1,5 @@
+title: "titolo del box"
+  file: "contenuto_del_box.md"
+
+- title: "Ciao"
+  file: "ciao.md"
