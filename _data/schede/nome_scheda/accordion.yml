@@ -7,10 +7,10 @@
 # - entries with "utenza" key are visible only for that profiles
 
 - title: "Primo_accordion"
-  description: "Primo_accordion.md"
+  file: "Primo_accordion.md"
 
 - title: "Secondo_accordion"
-  description: "Secondo_accordion.md"
+  file: "Secondo_accordion.md"
   utenza:
     - cittadini
     - intermediari
