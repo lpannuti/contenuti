@@ -1,0 +1,1 @@
+questa cartella contiene almeno un file .md di contenuto che si chiama 1_nome_pagina.md, gli altri sono numerati in base all'ordine di presentazione nella pagina., 2_nome_pagina.md, ecc. a seconda del layout di pagina
