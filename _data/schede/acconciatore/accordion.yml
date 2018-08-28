@@ -1,0 +1,43 @@
+# A list of accordions
+#
+# Title: the title of the accordion
+# file: the file name where the content of this accordion is stored
+# Utenza: onditional visibility for profile
+# - entries without "utenza" key are visible for all profiles
+# - entries with "utenza" key are visible only for that profiles
+
+- title: "Descrizione"
+  file: "Descrizione.md"
+  utenza:
+    - cittadini
+    - imprese
+- title: "Vendita"
+  file: "Vendita.md"
+  utenza:
+    - cittadini
+    - imprese
+- title: "Requisiti"
+  file: "Requisiti.md"
+  utenza:
+    - cittadini
+    - imprese
+- title: "Regime avvio"
+  file: "Regime_avvio.md"
+  utenza:
+    - cittadini
+    - imprese
+    - title: "Modulistica"
+      file: "Modulistica.md"
+      utenza:
+        - cittadini
+        - imprese
+    - title: "Controlli"
+      file: "Controlli.md"
+      utenza:
+        - cittadini
+        - imprese
+    - title: "Normativa"
+      file: "Normativa.md"
+      utenza:
+        - cittadini
+        - imprese

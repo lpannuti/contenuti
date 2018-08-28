@@ -1,0 +1,7 @@
+L'attività di acconciatore comprende tutti i trattamenti e i servizi volti a modificare, migliorare, mantenere e proteggere l'aspetto estetico dei capelli, ivi compresi i trattamenti tricologici complementari, che non implicano prestazioni di carattere medico, curativo o sanitario, nonché il taglio e il trattamento estetico della barba e ogni altro servizio inerente o complementare.
+L'attività di acconciatore può essere esercitata sia su persone di sesso maschile, sia su persone di sesso femminile.
+Rientra nell’attività di acconciatore la mera esecuzione di treccine, ancorché non preceduta da alcun trattamento del capello.
+Il termine “acconciatore” comprende le locuzioni “barbiere”, “parrucchiere per uomo”,  “parrucchiere per donna”, “parrucchiere misto”, utilizzate dal legislatore precedentemente alla L.R. 17 giugno 2011, n. 7. Gli acconciatori nell'esercizio della propria attività possono avvalersi direttamente di collaboratori familiari e di personale dipendente per l'esclusivo svolgimento di prestazioni semplici di manicure e pedicure estetico - limitatamente al taglio, limatura e laccatura delle unghie- tradizionalmente complementari all'attività principale; la realizzazione del make-up o maquillage o trucco non rientra tra le attività di acconciatore, bensì tra le attività di estetista.
+
+**Non è ammesso lo svolgimento delle attività di acconciatore in forma ambulante o di posteggio.
+**
